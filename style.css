@@ -13,7 +13,7 @@ body{
 }
 
 p{
-  font-size: 18px;
+  font-size: 20px;
 }
 
   a{
@@ -132,6 +132,7 @@ span.wave {
       /* color: #21e2e3; */
       /* color: #868e96; */
       color: white;
+      
   }
 
 
