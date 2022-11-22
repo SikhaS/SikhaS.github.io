@@ -1,12 +1,10 @@
 
 body{
     background-image: url("Image/12.jpg");
-    /* Full height */
-    height: 100%;
-  /* Center and scale the image nicely */
+/*     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
     font-family: 'Open Sans', sans-serif;
     margin: 0;
   }
